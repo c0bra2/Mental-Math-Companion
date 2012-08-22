@@ -1,0 +1,22 @@
+*********************************
+* Mental Math Companion 1.0.0   *
+* author: Jacob Mason           *
+* email: applebl00m@hotmail.com *
+*********************************
+
+Discription:
+	Exercise your mental math skills by practicing for only minutes a day, if you spend enough time with this program you're going to become one hell of a number crunching wizard! >.>
+
+The GUI is rather straight forward and intuitive in my opinion so i will not be "walking you through" ever single button.
+This project was actually inspired by some mental math lectures (TTC - Secrets of Mental Math) and i developed this program to practice my newly aquired skills. I hope this benifits you as much as does me.
+
+Required:
+1)python 2.5
+2)pygame
+
+Todo:
+1)Add more features
+2)clean up the code
+
+
+
